@@ -18,6 +18,7 @@ rename.sh script'i Cat ve Dog images içerisinde bulunan tüm görsellerin isiml
 
 rename.sh işlemi bittikten sonra main.ipynb dosyası açılır ve sırasıyla çalıştırılır. Kütüphanelerin dahil edilmesinden sonra klasörleme işlemi gerçekleştirilir. Bu işlemden sonra Data/ dosya hiyerarşisi aşağıda belirtilmiştir.
 
+'''
 .
 ├── Cat
 ├── Dog
@@ -31,5 +32,6 @@ rename.sh işlemi bittikten sonra main.ipynb dosyası açılır ve sırasıyla �
 │   ├── cat (2000 adet)
 │   └── dog (2000 adet)
 └── renameFiles.sh
+'''
 
 Sonrasında model eğitilir ve eğitilmiş model kayıt edilir.
